@@ -17,11 +17,10 @@ body{
   min-height: 100px;
 }
 
-.container-up{
-  background-color: #0c67df;
+/* #container-up{
   grid-area: left;
   overflow: auto;
-}
+} */
 
 .container-left{
   grid-area: left;
@@ -47,3 +46,4 @@ body{
   float: left;
   padding: 0, 5px;
 }
+
